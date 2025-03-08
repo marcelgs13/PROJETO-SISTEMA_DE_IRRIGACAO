@@ -68,4 +68,4 @@ Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para deta
 
 ## ✉️ Créditos
 - **Orientador**: Prof. Henrique Patriota  
-- **Desenvolvedores**: [Marcel Gustavo](https://github.com/marcelgs13) | [Mateus Omar]((https://github.com/M4T3U5123))
+- **Desenvolvedores**: [Marcel Gustavo](https://github.com/marcelgs13) | [Mateus Omar](https://github.com/M4T3U5123)
