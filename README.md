@@ -16,7 +16,6 @@ Sistema embarcado para controle autônomo de irrigação, capaz de monitorar a u
 - **Leitura contínua da umidade do solo** via sensor capacitivo.
 - **Ativação automática da bomba d'água** quando o solo está seco.
 - **Indicação visual** com LEDs (vermelho para solo seco, verde para úmido).
-- **Modo de baixo consumo** (SLEEP_MODE_IDLE) durante períodos de inatividade.
 - **Histerese** para evitar oscilações no acionamento da bomba.
 
 ---
