@@ -76,3 +76,4 @@ ISR(TIMER2_OVF_vect)
             PORTD &= ~(1 << ledVerde);
         }
     }
+}
